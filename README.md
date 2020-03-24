@@ -1,5 +1,5 @@
 # PyProxyGrabber
-An Python based Proxy grabber
+A Python based Proxy grabber
 
 # Libarys used
 sys, 
